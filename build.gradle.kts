@@ -92,7 +92,7 @@ tasks {
 
     runIde {
         // Uncomment the following line if you want to test the plugin with Android Studio.
-        // ideDir.set(file("/Applications/Android Studio.app/Contents"))
+        ideDir.set(file("/Applications/WebStorm.app.app/Contents"))
     }
 
     // Configure UI tests plugin
